@@ -151,7 +151,7 @@ Personal portfolio with 90+ Lighthouse performance score, SEO optimization, resp
 <img src="https://streak-stats.demolab.com/?user=Muhammad-Jareer&theme=tokyonight&hide_border=true&background=0d1117&stroke=0000&ring=a78bfa&fire=a78bfa&currStreakLabel=a78bfa" alt="GitHub Streak" />
 
 ### 📅 Activity Heatmap
-<img src="https://ghchart.rshah.org/a78bfa/Muhammad-Jareer?from=2024-01-01&to=2026-12-31" alt="2024 Contributions" />
+<img src="https://ghchart.rshah.org/a78bfa/Muhammad-Jareer?from=2024-01-01&to=2024-12-31" alt="2024 Contributions" />
 
 
 </div>
