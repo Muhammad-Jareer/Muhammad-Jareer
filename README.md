@@ -136,20 +136,23 @@ Personal portfolio with 90+ Lighthouse performance score, SEO optimization, resp
 
 ## `< GitHub Stats & Achievements />`
 
+## `< GitHub Stats & Achievements />`
+
 <div align="center">
 
 ### 🏆 GitHub Trophies
 <img src="https://github-profile-trophy.vercel.app/?username=Muhammad-Jareer&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15&column=7" alt="GitHub Trophies" />
 
-### 📊 Stats & Languages
+### 📊 All-Time Stats & Languages
 <img src="https://github-readme-stats.vercel.app/api?username=Muhammad-Jareer&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=ffffff" height="165"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Muhammad-Jareer&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=ffffff" height="165"/>
 
 ### 🔥 Coding Streak
 <img src="https://streak-stats.demolab.com/?user=Muhammad-Jareer&theme=tokyonight&hide_border=true&background=0d1117&stroke=0000&ring=a78bfa&fire=a78bfa&currStreakLabel=a78bfa" alt="GitHub Streak" />
 
-### 📈 Activity Graph
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Muhammad-Jareer&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=a78bfa&line=a78bfa&point=ffffff&area=true&area_color=a78bfa" alt="Activity Graph" />
+### 📅 All-Time Contribution Heatmap
+<!-- This shows your entire history, not just the last year -->
+<img src="https://ghchart.rshah.org/a78bfa/Muhammad-Jareer" alt="Muhammad-Jareer's Github Chart" />
 
 ### 👀 Profile Views
 <img src="https://visitcount.itsvg.in/api?id=Muhammad-Jareer&label=Profile%20Views&color=11&icon=5&pretty=true" alt="Visitor Count" />
