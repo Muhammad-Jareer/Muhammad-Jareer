@@ -154,8 +154,6 @@ Personal portfolio with 90+ Lighthouse performance score, SEO optimization, resp
 <!-- This shows your entire history, not just the last year -->
 <img src="https://ghchart.rshah.org/a78bfa/Muhammad-Jareer" alt="Muhammad-Jareer's Github Chart" />
 
-### 👀 Profile Views
-<img src="https://profile-counter.glitch.me/Muhammad-Jareer/count.svg" alt="Visitor Count" />
 
 </div>
 
