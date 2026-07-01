@@ -108,7 +108,7 @@ Complete frontend redesign and modernization of the company's landing page. Impr
 
 Personal portfolio with 90+ Lighthouse performance score, SEO optimization, responsive components, and project showcase.
 
-**Live:** [muhammadjareer.me](https://www.blog.muhammadjareer.me/)
+**Live:** [muhammadjareer.me](https://www.blogs.muhammadjareer.me/)
 
 ---
 
