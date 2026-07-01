@@ -4,7 +4,7 @@
 
 <br/>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-muhammadjareer.me-7c3aed?style=for-the-badge&logo=vercel&logoColor=white)](https://www.muhammadjareer.me/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-muhammadjareer.me-7c3aed?style=for-the-badge&logo=vercel&logoColor=white)](https://www.blogs.muhammadjareer.me/)
 [![Email](https://img.shields.io/badge/Email-jareerameer@gmail.com-ea4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jareerameer@gmail.com)
 [![Blog](https://img.shields.io/badge/Blog-blogs.muhammadjareer.me-0ea5e9?style=for-the-badge&logo=hashnode&logoColor=white)](https://blogs.muhammadjareer.me)
 
@@ -108,7 +108,7 @@ Complete frontend redesign and modernization of the company's landing page. Impr
 
 Personal portfolio with 90+ Lighthouse performance score, SEO optimization, responsive components, and project showcase.
 
-**Live:** [muhammadjareer.me](https://www.blogs.muhammadjareer.me/)
+**Live:** [blogs.muhammadjareer.me](https://www.blogs.muhammadjareer.me/)
 
 ---
 
